@@ -20,14 +20,60 @@ This mod is part of the **Vanilla Outsider** collection — mods that enhance va
 
 All passive and neutral animals now drop improved loot:
 
-| Animal | Enhanced Drops |
-|--------|---------------|
-| **Cows** | More beef & leather |
-| **Pigs** | More porkchops |
-| **Sheep** | More mutton & wool |
-| **Chickens** | More chicken & feathers |
-| **Rabbits** | More rabbit meat & hide |
-| **And more...** | 24+ animals enhanced |
+#### 🐄 Farm Animals
+
+| Animal | Additional Drops |
+|--------|-----------------|
+| **Chicken** | +1 Feather |
+| **Cow** | +1 Leather |
+| **Rabbit** | +1 Rabbit Meat, +1 Rabbit Hide |
+| **Mooshroom** | +1 Leather |
+
+#### 🐴 Rideable Animals
+
+| Animal | Additional Drops |
+|--------|-----------------|
+| **Horse** | +1-2 Leather, +1-3 Beef |
+| **Donkey** | +1-2 Leather, +1-2 Beef |
+| **Mule** | +1-2 Leather, +1-3 Beef |
+| **Llama** | +1-2 Leather, +1-3 Beef |
+| **Camel** | +1-2 Leather, +1-3 Beef |
+
+#### 🐬 Aquatic Animals
+
+| Animal | Additional Drops |
+|--------|-----------------|
+| **Dolphin** | +1-2 Cod |
+| **Turtle** | +1 Seagrass |
+| **Axolotl** | +1 Cod |
+
+#### 🐺 Tameable & Wild Animals
+
+| Animal | Additional Drops |
+|--------|-----------------|
+| **Wolf** | +1 Beef |
+| **Cat** | +1 Cod |
+| **Ocelot** | +1 Cod |
+| **Parrot** | +1 Chicken, +1-2 Feathers |
+| **Fox** | +1 Rabbit |
+
+#### 🌟 Special Animals
+
+| Animal | Additional Drops |
+|--------|-----------------|
+| **Panda** | +1-2 Bamboo, +1-2 Beef |
+| **Goat** | +1-2 Mutton |
+| **Frog** | +1-2 Slime Balls |
+| **Armadillo** | +1-2 Armadillo Scutes |
+| **Sniffer** | +1-2 Moss Blocks |
+| **Allay** | +1-2 Wind Charges |
+| **Bat** | +1 Chicken |
+
+#### 🔥 Nether Animals
+
+| Animal | Additional Drops |
+|--------|-----------------|
+| **Hoglin** | +1 Leather |
 
 ### 🦴 Bone Drops
 
