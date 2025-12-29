@@ -1,0 +1,44 @@
+{
+	"schemaVersion": 1,
+	"id": "vanilla-outsider-more-animal-drops",
+	"version": "${version}",
+	"name": "Vanilla Outsider: More Animal Drops",
+	"description": "Part of the Vanilla Outsider collection. Tweaks animal entity drops for more consistent and rewarding loot - using only vanilla items.",
+	"authors": [
+		"DasikIgaijin"
+	],
+	"contact": {
+		"homepage": "https://github.com/Rifaditya/Vanilla-Outsider-More-Animal-Drops",
+		"sources": "https://github.com/Rifaditya/Vanilla-Outsider-More-Animal-Drops"
+	},
+	"license": "MIT",
+	"icon": "assets/vanilla-outsider-more-animal-drops/icon.png",
+	"environment": "*",
+	"entrypoints": {
+		"main": [
+			{
+				"value": "com.dasik.moreanimaldrops.LazyMoreAnimalDrops",
+				"adapter": "kotlin"
+			}
+		],
+		"client": [
+			{
+				"value": "com.dasik.moreanimaldrops.LazyMoreAnimalDropsClient",
+				"adapter": "kotlin"
+			}
+		]
+	},
+	"mixins": [
+		"vanilla-outsider-more-animal-drops.mixins.json"
+	],
+	"depends": {
+		"fabricloader": ">=0.18.4",
+		"minecraft": "~1.21.11",
+		"java": ">=21",
+		"fabric-api": "*",
+		"fabric-language-kotlin": "*"
+	},
+	"suggests": {
+		"modmenu": "*"
+	}
+}
