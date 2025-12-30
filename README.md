@@ -130,6 +130,8 @@ This project is licensed under the **MIT License**.
 
 Other mods in this collection:
 
+- [Vanilla Outsider: Keep Gear](https://github.com/Rifaditya/Vanilla-Outsider-Keep-Gear) - Keep items with durability on death
+- [Vanilla Outsider: Better Dogs](https://github.com/Rifaditya/Vanilla-Outsider-Better-Dogs) - Enhanced wolf AI with personalities
 - [Vanilla Outsider: Gold Progression](https://github.com/Rifaditya/Vanilla-Outsider-Gold-Progression) - Rebalanced gold equipment progression
 
 ---
